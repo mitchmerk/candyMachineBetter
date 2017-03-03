@@ -162,7 +162,7 @@ int main() { // start of main function.
 		"\n3 for Kitkat"
 		"\n4 for Hersheys"
 		"\n5 for Swedish Fish"
-		"\n6 to Return" << endl << endl;
+		"\n6 to  Return" << endl << endl;
 
 	// Prompt users to make selection.
 
